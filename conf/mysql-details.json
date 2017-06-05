@@ -1,0 +1,8 @@
+{
+  "database":"conversions",
+  "tablename":"conversions",
+  "username":"conversions",
+  "password":"conversions",
+  "hostname":"127.0.0.1",
+  "truncate-first":false
+}

@@ -82,6 +82,13 @@ celerybeat-schedule
 # dotenv
 .env
 
+# Excel files
+*.xlsx
+*.xls
+
+# CSV files
+*.csv
+
 # virtualenv
 .venv
 venv/
